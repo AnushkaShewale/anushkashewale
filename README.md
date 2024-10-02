@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21300
-Fork on GitHub
-6666
 
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Anushka Shewale</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
